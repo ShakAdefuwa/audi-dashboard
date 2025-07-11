@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/audi-dashboard/static/css/main.f855e6bc.css",
+    "main.js": "/audi-dashboard/static/js/main.ded8d3e5.js",
+    "static/js/488.ff57ccb9.chunk.js": "/audi-dashboard/static/js/488.ff57ccb9.chunk.js",
+    "service-worker.js": "/audi-dashboard/service-worker.js",
+    "static/media/logo.svg": "/audi-dashboard/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/audi-dashboard/index.html",
+    "main.f855e6bc.css.map": "/audi-dashboard/static/css/main.f855e6bc.css.map",
+    "main.ded8d3e5.js.map": "/audi-dashboard/static/js/main.ded8d3e5.js.map",
+    "488.ff57ccb9.chunk.js.map": "/audi-dashboard/static/js/488.ff57ccb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ded8d3e5.js"
+  ]
+}
