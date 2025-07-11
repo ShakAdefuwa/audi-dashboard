@@ -20,6 +20,7 @@ const sampleData = [
   { model: 'TT', year: 2020, fuelEfficiency: 30, maintenanceIssues: 2, resaleValue: 33000 },
   { model: 'TT', year: 2021, fuelEfficiency: 31, maintenanceIssues: 2, resaleValue: 34000 },
   { model: 'TT', year: 2022, fuelEfficiency: 32, maintenanceIssues: 1, resaleValue: 35000 },
+  { model: 'TT', year: 2023, fuelEfficiency: 32, maintenanceIssues: 1, resaleValue: 36000 },
 ];
 
 function getAverage(arr, key) {
