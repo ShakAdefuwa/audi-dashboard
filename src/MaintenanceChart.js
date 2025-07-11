@@ -15,6 +15,7 @@ const maintenanceData = [
   { model: 'Q5', age3: 3, age5: 5, age10: 8 },
   { model: 'Q6', age3: 3, age5: 5, age10: 9 },
   { model: 'Q7', age3: 4, age5: 6, age10: 11 },
+  { model: 'Q8', age3: 1, age5: 1, age10: 1 },
 ];
 
 function MaintenanceChart() {
