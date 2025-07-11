@@ -76,6 +76,12 @@ function Dashboard() {
         </ul>
       </motion.div>
       <MaintenanceChart />
+      <Box sx={{ mt: 4, mb: 4, p: 3, background: '#f5f5f5', borderRadius: 2, boxShadow: 1 }}>
+        <Typography variant="h5" sx={{ mb: 2, fontWeight: 600 }}>Analysis of Maintenance Issues</Typography>
+        <Typography variant="body1">
+          The chart above shows how maintenance issues increase as Audi cars age. Across all models (A1–A7, Q3–Q7), maintenance issues are lowest for cars that are 3 years old, and increase steadily at 5 and 10 years. Larger models (Q7, A7) tend to have more issues as they age, likely due to more complex systems and higher usage. Compact models (A1, A2) show slower growth in maintenance problems, indicating better reliability over time. This analysis suggests that regular maintenance becomes increasingly important as Audi vehicles age, especially for higher-end models.
+        </Typography>
+      </Box>
       <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9 }}>
         <Typography variant="h4" sx={{ mt: 4, mb: 2, fontWeight: 700 }}>All Data</Typography>
         <TableContainer component={Paper} sx={{ boxShadow: 2 }}>
