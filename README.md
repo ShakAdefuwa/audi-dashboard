@@ -35,7 +35,7 @@ Deploy to GitHub Pages with:
 ```
 npm run deploy
 ```
-Your dashboard will be available at [https://ShakirudeenA.github.io/audi-dashboard](https://ShakirudeenA.github.io/audi-dashboard)
+Dashboard available at [https://ShakirudeenA.github.io/audi-dashboard](https://ShakirudeenA.github.io/audi-dashboard)
 
 ## License
 Open source and free to use.
