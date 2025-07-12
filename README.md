@@ -39,6 +39,3 @@ Dashboard available at [https://ShakirudeenA.github.io/audi-dashboard](https://S
 
 ## License
 Open source and free to use.
-
----
-Inspired by [osrs-dashboard](https://github.com/ShakirudeenA/osrs-dashboard).
